@@ -11,20 +11,20 @@ repository: JosieSalice/JosieSalice.github.io        # Specify the GitHub userna
 social:
   email: Karl.Laundal@uib.no
 #  twitter: peterdesmet
-  github: github_username               # Can also be a github_username/repository
+  github: https://github.com/klaundal # Can also be a github_username/repository
 #  mastodon: https://mastodon.social/@mastodon_username
 #  facebook:                             # A URL
 #  disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com
 
 # THEME SETTINGS (ALL OPTIONAL)
-posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
+posts_on_home: 2                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: false                    # Show Twitter feed of social.twitter on homepage
 #archive_permalink: /blog/               # Permalink of page using the archive.html layout, required when using post tags
 github_edit: false                       # Show an "edit this page" link in the footer, can also be name of branch (default: main)
 colors:
   links: "#2B7462"                      # Color for links: use a readable color that contrasts well with dark text
   banner: "#3F8876"                     # Background color for page banners: use color that contrasts well with white
-  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+  footer: "#77B2A6"                     # Background color for footer: use color that contrasts well with white
 font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
 logo: /assets/theme/images/Logo.png # Logo in navbar, will be displayed with 30px height

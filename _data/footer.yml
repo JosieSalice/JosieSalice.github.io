@@ -12,11 +12,30 @@ columns:
 #      href: http://example.com
 #      new_window: true
 
-  - description: > # E.g. funding acknowledgement. Can be Markdown
-      This project is funded by XXXX.
+  # - description: > # E.g. funding acknowledgement. Can be Markdown
+  #     This project is funded by XXXX.
 #      See [`_data/footer.yml`](https://raw.githubusercontent.com/peterdesmet/petridish/master/_data/footer.yml)
 #      to customize this text.
-    links:
+    # links: https://dsbfksdnvlsndvlksd.com
+  - description: >
+
+  - description: >
+
+  - description: >
+       <div style="text-align: right; white-space: nowrap;">
+         <img src="/assets/theme/images/uib_transparent.png" alt="Project logo" style="width: 110px; height: 110px; display: inline-block; vertical-align: top;">
+         <img src="/assets/theme/images/LOGO_ERC-FLAG_EU NEGATIF.png" alt="Project logo" style="width: 300px; height: 115px; display: inline-block; vertical-align: top;">
+       </div>
+#      <div style="text-align: right;">
+#          <img src="assets/theme/images/uib_transparent.png" alt="Project logo" style="width: 110px; height: 110px; display: inline-block; vertical-align: top;">
+#          <img src="assets/theme/images/LOGO_ERC-FLAG_EU_.jpg" alt="Project logo" style="width: 194px; height: 80px; display: inline-block; vertical-align: top;">
+#      </div>
+#       <img src="assets/theme/images/uib_transparent.png" alt="Project logo" style="width: 110px; height: 110px;">
+#       <img src="assets/theme/images/LOGO_ERC-FLAG_EU_.jpg" alt="Project logo" style="width: 194px; height: 80px;">
+#      <div style="text-align: right;">
+#        <img src="assets/theme/images/uib_transparent.png" alt="Project logo" style="width: 110px; height: 110px; display: block; margin-bottom: 10px;">
+#        <img src="assets/theme/images/LOGO_ERC-FLAG_EU_.jpg" alt="Project logo" style="width: 165px; height: 80px; display: block;">
+#      </div>
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
